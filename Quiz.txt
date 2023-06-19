@@ -1,0 +1,26 @@
+const questionData = [
+	{
+	  question:"1.Which one is not Operating system",
+      a:"Dos system",
+      b:"Microsoft word",
+      c:"Microsoft Windows",
+      d:"Android",
+      correct:"b"
+	},
+    {
+        question:"2.Which one is Web Browser",
+        a:"Google Chrome",
+        b:"Keyboard",
+        c:"Mouse",
+        d:"Monitor",
+        correct:"a"
+    },
+    {
+        question:"3.Which one is Hardware",
+        a:"Keyboard",
+        b:"Mouse",
+        c:"Monitor",
+        d:"ถูกทุกข้อ",
+        correct:"d"
+    }
+]
